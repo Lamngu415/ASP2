@@ -55,4 +55,4 @@ jobs:
           app-name: 'ssb'
           slot-name: 'dev1'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A44A6BC297B4744BCBE166455C87763 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34576B489BA34BDFBDA1021624385661 }}
